@@ -20,6 +20,6 @@ aliyun:
   oss:
     file:
       endpoint: oss-cn-beijing.aliyuncs.com
-      keyid: LTAI4FtuGkG6e7kBy1svFB52
-      keysecret: O3cY7KRiC865MRcvrLKcCrf6lYucRV
+      keyid: ****************************
+      keysecret: ******************************
       bucketname: vxin
